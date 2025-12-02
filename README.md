@@ -3,15 +3,14 @@
 
 ---
 
-## 📌 Activity & Project Summary
 
-| **📘 Title / Topic** | **🔗 Notebook Link** |
+<p align="center">| **📘 Title / Topic** | **🔗 Notebook Link** |
 |----------------------|------------------------|
 | **Palmer Penguins Data Overview** | [Activity 1](#) |
 | **UK Accident Data Overview** | [Activity 2](#) • [NbViewer](#) |
 | **Dengue Data Analysis Overview** | [Project 3](#) |
 | **Predicting 2024 Data Science Salaries (Linear Regression)** | [Assignment](#) |
-| **Logistic Regression** | [Activity 4](#) |
+| **Logistic Regression** | [Activity 4](#) |</p>
 
 
 
