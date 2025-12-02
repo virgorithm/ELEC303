@@ -3,15 +3,16 @@
 
 ---
 
-<p align="center">| **📘 Title / Topic** | | **🔗 Notebook Link** |
-|----------------------|---------------------------|------------------------|
-| **Palmer Penguins Data Overview** | | [Activity 1](#) |
-| **UK Accident Data Overview** | | [Activity 2](#) • [NbViewer](#) |
-| **Dengue Data Analysis** |  | [Project 3](#) |
-| **Predicting 2024 Data Science Salaries** |  | [Assignment](#) |
-| **Logistic Regression Model** |  | [Activity 4](#) |</p>
+## 📌 Activity & Project Summary
 
----
+| **📘 Title / Topic** | **🔗 Notebook Link** |
+|----------------------|------------------------|
+| **Palmer Penguins Data Overview** | [Activity 1](#) |
+| **UK Accident Data Overview** | [Activity 2](#) • [NbViewer](#) |
+| **Dengue Data Analysis Overview** | [Project 3](#) |
+| **Predicting 2024 Data Science Salaries (Linear Regression)** | [Assignment](#) |
+| **Logistic Regression** | [Activity 4](#) |
+
 
 
 ## 🛠️ Technologies Used
