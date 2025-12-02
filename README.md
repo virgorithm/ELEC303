@@ -30,3 +30,49 @@ This repository showcases end-to-end workflows including:
 
 ## 🗂️ Repository Structure
 
+
+---
+
+## 🛠️ Technologies Used
+
+<div align="center">
+
+| Tool | Description |
+|------|--------------|
+| 🐍 **Python** | Core programming language |
+| 📊 **Pandas / NumPy** | Data manipulation & numerical computing |
+| 📈 **Matplotlib / Seaborn** | Visualizations |
+| 🤖 **Scikit-Learn** | Machine learning models & evaluation |
+| 📓 **Jupyter Notebook** | Interactive experiments |
+
+</div>
+
+---
+
+## ✨ Highlights
+
+✔ Modernized EDA workflows  
+✔ Clean visualizations  
+✔ Machine learning modeling pipeline  
+✔ Organized repository with readable notebooks  
+✔ Beginner-friendly but extensible for advanced work  
+
+---
+
+## 📬 Contact
+
+If you have questions or need help, feel free to reach out anytime.
+
+---
+
+### Want something even better?
+
+I can add:
+
+🔥 Gradient headers  
+🔥 Card-style sections  
+🔥 Badges  
+🔥 Color-themed version (dark, neon, pastel)  
+🔥 Animated dividers  
+
+
