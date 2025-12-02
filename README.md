@@ -2,13 +2,13 @@
 <p align="center">Machine Learning • Data Exploration • Statistical Modeling</p>
 
 ---
-| **📘 Title / Topic** | | **🔗 Notebook Link** |
+<p align="center">| **📘 Title / Topic** | | **🔗 Notebook Link** |
 |----------------------|---------------------------|------------------------|
-| **Palmer Penguins Data Overview** |  | [Activity 1](#) |
-| **UK Accident Data Overview** | | [Activity 2](#) • [NbViewer](#) |
-| **Dengue Data Analysis** |  | [Project 3](#) |
+| **Palmer Penguins Data Overview** |   [Activity 1](#) |
+| **UK Accident Data Overview** |  [Activity 2](#) • [NbViewer](#) |
+| **Dengue Data Analysis** |   [Project 3](#) |
 | **Predicting 2024 Data Science Salaries** || [Assignment](#) |
-| **Logistic Regression Model** |  | [Activity 4](#) |
+| **Logistic Regression Model** |  [Activity 4](#) </p>
 
 ---
 
