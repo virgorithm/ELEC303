@@ -12,13 +12,13 @@
   </tr>
 
   <tr>
-    <td><b>Palmer Penguins Data Overview</b></td>
+    <td><b>Palmer Penguins </b></td>
     <td><a href="https://github.com/virgorithm/ELEC303/blob/main/datasets/Activity1.ipynb">Activity 1</a></td>
   </tr>
 
   <tr>
-    <td><b>UK Accident Data Overview</b></td>
-    <td><a href="#">Activity 2</a> • <a href="#">NbViewer</a></td>
+    <td><b>UK Accident Data </b></td>
+    <td><a href="https://nbviewer.org/github/virgorithm/ELEC303-/blob/main/Activity2.ipynb">Activity 2</a> </td>
   </tr>
 
   <tr>
