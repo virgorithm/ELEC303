@@ -20,15 +20,20 @@
     <td><b>UK Accident Data </b></td>
     <td><a href="https://nbviewer.org/github/virgorithm/ELEC303-/blob/main/Activity2.ipynb">Activity 2</a> </td>
   </tr>
+  
+  <tr>
+    <td><b>Chicago Crimes year 2024 and 2025 Data Analytics</b></td>
+    <td><a href="https://github.com/virgorithm/ELEC303/blob/main/datasets/Midterms.ipynb">Midterms</a></td>
+  </tr>
 
   <tr>
-    <td><b>Dengue Data Analysis Overview</b></td>
-    <td><a href="#">Project 3</a></td>
+    <td><b>Dengue Data Analysis</b></td>
+    <td><a href="https://github.com/virgorithm/ELEC303/blob/main/datasets/project%203.ipynb">Project 3</a></td>
   </tr>
 
   <tr>
     <td><b>Predicting 2024 Data Science Salaries (Linear Regression)</b></td>
-    <td><a href="#">Assignment</a></td>
+    <td><a href="">Assignment</a></td>
   </tr>
 
   <tr>
@@ -42,21 +47,6 @@
 
 
 
-## 🛠️ Technologies Used
-
-<div align="center">
-
-| Tool | Description |
-|------|--------------|
-| 🐍 **Python** | Core programming language |
-| 📊 **Pandas / NumPy** | Data manipulation & numerical computing |
-| 📈 **Matplotlib / Seaborn** | Visualizations |
-| 🤖 **Scikit-Learn** | Machine learning models & evaluation |
-| 📓 **Jupyter Notebook** | Interactive experiments |
-
-</div>
-
----
 
 
 
