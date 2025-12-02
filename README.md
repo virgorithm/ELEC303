@@ -2,22 +2,6 @@
 <p align="center">Machine Learning • Data Exploration • Statistical Modeling</p>
 
 ---
-
-## 🚀 Overview
-
-A curated collection of **activities, machine learning exercises, projects, and assignments** for the ELEC303 – Data Analytics course.  
-This repository showcases end-to-end workflows including:
-
-- 📁 Data preprocessing & cleaning  
-- 📊 Visualization & storytelling  
-- 🤖 Predictive modeling  
-- 📈 Statistical analysis  
-- 📓 Jupyter notebook experiments  
-
----
-
-## 📌 Activity & Project Summary
-
 | **📘 Title / Topic** | **💡 Short Description** | **🔗 Notebook Link** |
 |----------------------|---------------------------|------------------------|
 | **Palmer Penguins Data Overview** | EDA of penguin species: data cleaning, visualization, correlation patterns (bill length, species, body mass). | [Activity 1](#) |
