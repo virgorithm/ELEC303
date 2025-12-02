@@ -1,4 +1,4 @@
-<h1 align="center">📊 ELEC303 — Data Analytics</h1>
+<h1 align="center">📊 ELEC303  Data Analytics</h1>
 <p align="center">Activity• Assignment • Projects</p>
 
 ---
