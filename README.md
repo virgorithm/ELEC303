@@ -13,7 +13,7 @@
 
   <tr>
     <td><b>Palmer Penguins Data Overview</b></td>
-    <td><a href="#https://github.com/virgorithm/ELEC303/blob/main/datasets/Activity1.ipynb">Activity 1</a></td>
+    <td><a href="https://github.com/virgorithm/ELEC303/blob/main/datasets/Activity1.ipynb">Activity 1</a></td>
   </tr>
 
   <tr>
