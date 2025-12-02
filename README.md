@@ -3,14 +3,44 @@
 
 ---
 
+<div align="center">
 
-<p align="center">| **📘 Title / Topic** | **🔗 Notebook Link** |
-|----------------------|------------------------|
-| **Palmer Penguins Data Overview** | [Activity 1](#) |
-| **UK Accident Data Overview** | [Activity 2](#) • [NbViewer](#) |
-| **Dengue Data Analysis Overview** | [Project 3](#) |
-| **Predicting 2024 Data Science Salaries (Linear Regression)** | [Assignment](#) |
-| **Logistic Regression** | [Activity 4](#) |</p>
+## 📌 Activity & Project Summary
+
+<table>
+  <tr>
+    <th>📘 Title / Topic</th>
+    <th>🔗 Notebook Link</th>
+  </tr>
+
+  <tr>
+    <td><b>Palmer Penguins Data Overview</b></td>
+    <td><a href="#">Activity 1</a></td>
+  </tr>
+
+  <tr>
+    <td><b>UK Accident Data Overview</b></td>
+    <td><a href="#">Activity 2</a> • <a href="#">NbViewer</a></td>
+  </tr>
+
+  <tr>
+    <td><b>Dengue Data Analysis Overview</b></td>
+    <td><a href="#">Project 3</a></td>
+  </tr>
+
+  <tr>
+    <td><b>Predicting 2024 Data Science Salaries (Linear Regression)</b></td>
+    <td><a href="#">Assignment</a></td>
+  </tr>
+
+  <tr>
+    <td><b>Logistic Regression</b></td>
+    <td><a href="#">Activity 4</a></td>
+  </tr>
+
+</table>
+
+</div>
 
 
 
