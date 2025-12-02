@@ -4,18 +4,14 @@
 ---
 | **📘 Title / Topic** | **💡 Short Description** | **🔗 Notebook Link** |
 |----------------------|---------------------------|------------------------|
-| **Palmer Penguins Data Overview** | EDA of penguin species: data cleaning, visualization, correlation patterns (bill length, species, body mass). | [Activity 1](#) |
-| **UK Accident Data Overview** | Pattern analysis of UK accidents based on severity, time, weather, and vehicle type. Includes charts + insights. | [Activity 2](#) • [NbViewer](#) |
-| **Dengue Data Analysis** | Trend analysis, seasonal patterns, hotspot detection, and environmental factor correlations. | [Project 3](#) |
-| **Predicting 2024 Data Science Salaries** | Linear regression salary model with preprocessing, evaluation (R², MSE), and insights on top predictors. | [Assignment](#) |
-| **Logistic Regression Model** | Binary classification using logistic regression with accuracy evaluation and predictions. | [Activity 4](#) |
+| **Palmer Penguins Data Overview** |  | [Activity 1](#) |
+| **UK Accident Data Overview** | | [Activity 2](#) • [NbViewer](#) |
+| **Dengue Data Analysis** |  | [Project 3](#) |
+| **Predicting 2024 Data Science Salaries** || [Assignment](#) |
+| **Logistic Regression Model** |  | [Activity 4](#) |
 
 ---
 
-## 🗂️ Repository Structure
-
-
----
 
 ## 🛠️ Technologies Used
 
@@ -33,30 +29,5 @@
 
 ---
 
-## ✨ Highlights
-
-✔ Modernized EDA workflows  
-✔ Clean visualizations  
-✔ Machine learning modeling pipeline  
-✔ Organized repository with readable notebooks  
-✔ Beginner-friendly but extensible for advanced work  
-
----
-
-## 📬 Contact
-
-If you have questions or need help, feel free to reach out anytime.
-
----
-
-### Want something even better?
-
-I can add:
-
-🔥 Gradient headers  
-🔥 Card-style sections  
-🔥 Badges  
-🔥 Color-themed version (dark, neon, pastel)  
-🔥 Animated dividers  
 
 
