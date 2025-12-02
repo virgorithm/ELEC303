@@ -5,17 +5,15 @@
 
 <div align="center">
 
-## 📌 Activity & Project Summary
-
 <table>
   <tr>
-    <th>📘 Title / Topic</th>
-    <th>🔗 Notebook Link</th>
+    <th>📘 Analytics Dataset</th>
+    <th>🔗 Activity</th>
   </tr>
 
   <tr>
     <td><b>Palmer Penguins Data Overview</b></td>
-    <td><a href="#">Activity 1</a></td>
+    <td><a href="#https://github.com/virgorithm/ELEC303/blob/main/datasets/Activity1.ipynb">Activity 1</a></td>
   </tr>
 
   <tr>
