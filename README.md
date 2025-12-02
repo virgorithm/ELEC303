@@ -2,7 +2,7 @@
 <p align="center">Machine Learning • Data Exploration • Statistical Modeling</p>
 
 ---
-| **📘 Title / Topic** |  **🔗 Notebook Link** |
+| **📘 Title / Topic** | | **🔗 Notebook Link** |
 |----------------------|---------------------------|------------------------|
 | **Palmer Penguins Data Overview** |  | [Activity 1](#) |
 | **UK Accident Data Overview** | | [Activity 2](#) • [NbViewer](#) |
