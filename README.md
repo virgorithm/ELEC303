@@ -1,18 +1,32 @@
 <h1 align="center">📊 ELEC303 — Data Analytics</h1>
-<p align="center">Activities, Machine Learning Exercises, Assignments & Final Exam</p>
+<p align="center">Machine Learning • Data Exploration • Statistical Modeling</p>
+
+---
+
+## 🚀 Overview
+
+A curated collection of **activities, machine learning exercises, projects, and assignments** for the ELEC303 – Data Analytics course.  
+This repository showcases end-to-end workflows including:
+
+- 📁 Data preprocessing & cleaning  
+- 📊 Visualization & storytelling  
+- 🤖 Predictive modeling  
+- 📈 Statistical analysis  
+- 📓 Jupyter notebook experiments  
 
 ---
 
 ## 📌 Activity & Project Summary
 
-| **Title / Topic** | **Short Description** | **Notebook Link** |
-|-------------------|------------------------|--------------------|
-| **Palmer Penguins Data Overview** | Exploratory Data Analysis (EDA) of penguin species. Includes data cleaning, visualization, and relationship analysis between features like bill length, species, and body mass. | 🔗 [Activity 1](#) |
-| **UK Accident Data Overview** | Analysis of UK accident data focusing on patterns based on time, severity, vehicle type, and contributing factors. Includes charts and correlation insights. | 🔗 [Activity 2](#) • 🔗 [NbViewer](#) |
-| **Dengue Data Analysis Overview** | Trend analysis of dengue cases over the years. Includes seasonal patterns, hotspot identification, and environmental factor relationships. | 🔗 [Project 3](#) |
-| **Predicting 2024 Data Science Salaries (Linear Regression)** | Salary prediction model using linear regression. Covers preprocessing, model training, evaluation (MSE, R²), and insights about top influencing features. | 🔗 [Assignment](#) |
-| **Logistic Regression** | Implement logistic regression for binary classification, model evaluation, and prediction. | 🔗 [Activity 4](#) |
+| **📘 Title / Topic** | **💡 Short Description** | **🔗 Notebook Link** |
+|----------------------|---------------------------|------------------------|
+| **Palmer Penguins Data Overview** | EDA of penguin species: data cleaning, visualization, correlation patterns (bill length, species, body mass). | [Activity 1](#) |
+| **UK Accident Data Overview** | Pattern analysis of UK accidents based on severity, time, weather, and vehicle type. Includes charts + insights. | [Activity 2](#) • [NbViewer](#) |
+| **Dengue Data Analysis** | Trend analysis, seasonal patterns, hotspot detection, and environmental factor correlations. | [Project 3](#) |
+| **Predicting 2024 Data Science Salaries** | Linear regression salary model with preprocessing, evaluation (R², MSE), and insights on top predictors. | [Assignment](#) |
+| **Logistic Regression Model** | Binary classification using logistic regression with accuracy evaluation and predictions. | [Activity 4](#) |
 
 ---
 
-## 📁 Repository Structure  
+## 🗂️ Repository Structure
+
